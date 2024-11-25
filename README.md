@@ -13,17 +13,16 @@
 ## **📑 Table of Contents**
 - [📈 Project Status](#-project-status)
 - [✨ Features](#-features)
-- [⚙️ Architecture and Workflow](#-architecture-and-workflow)
+- [⚙️ Architecture and Workflow](#architecture-and-workflow)
 - [🤖 Help Desk Chatbot - Details](#-help-desk-chatbot---details)
-- [🗃️ Database](#-database)
-- [⚙️ Environment Variables](#-environment-variables)
+- [🗃️ Database](#database)
+- [⚙️ Environment Variables](#environment-variables)
 - [📦 How to Run the Application](#-how-to-run-the-application)
 - [🚀 Deployment](#-deployment)
 - [💻 Technologies Used](#-technologies-used)
 - [📂 Directory Structure](#-directory-structure)
 - [📐 Standards Used](#-standards-used)
 - [📅 Development Methodology](#-development-methodology)
-- [😿 Main Challenges](#-main-challenges)
 - [📝 License](#-license)
 
 ---
